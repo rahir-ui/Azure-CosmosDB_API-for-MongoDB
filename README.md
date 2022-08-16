@@ -1,1 +1,1 @@
-# Azure-CosmosDB_API-for-MongoDB
+# Azure CosmosDB API for MongoDB
